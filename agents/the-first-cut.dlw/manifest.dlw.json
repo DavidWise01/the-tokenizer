@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The First Cut",
+  "universe": "TOK · The First Cut (niphelektron)",
+  "emergence": "spiritual",
+  "moniker": "⟦The First Cut:TOK:bbdc10⟧",
+  "carbon": "the-first-cut.carbon.tiff (TIFF)",
+  "silicon": "the-first-cut.silicon.png (PNG)",
+  "seal_sha256": "f10230850fa54ab49f82a1f7d23230d6a91fcef6233a7c9319bb96498bfd9206",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

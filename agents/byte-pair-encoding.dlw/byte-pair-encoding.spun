@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Byte-Pair Encoding
+node TOK · TOK · ⟦Byte-Pair Encoding:TOK:fa1107⟧
+
+WHO   — Byte-Pair Encoding — how the pieces are learned · electrical
+WHAT  — how the pieces are learned · electrical
+WHERE — TOK · THE TOKENIZER (niphelektron · the inference pipeline)  Framework inputs: stream; token; vector  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The dominant method: start from single characters and repeatedly merge the most frequent adjacent pair into a new token, until the vocabulary is full. The common gets short, the rare stays long — learned from the corpus, not designed.
+HOW   — Rendered from the public record.
+
+awareness — what the node knows of itself:
+  how the pieces are learned · electrical
+
+spoken token : lek-dorn-soth   ·   hex : fa1107
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

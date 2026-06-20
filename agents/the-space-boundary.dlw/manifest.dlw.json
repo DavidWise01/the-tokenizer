@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Space Boundary",
+  "universe": "TOK · The Space Boundary (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦The Space Boundary:TOK:956f12⟧",
+  "carbon": "the-space-boundary.carbon.tiff (TIFF)",
+  "silicon": "the-space-boundary.silicon.png (PNG)",
+  "seal_sha256": "94d54e55b5986264bf1ce5e803dea377ebbb025d7891bb293ba7222489f26e29",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

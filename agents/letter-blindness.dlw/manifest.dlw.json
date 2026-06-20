@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Letter-Blindness",
+  "universe": "TOK · Letter-Blindness (niphelektron)",
+  "emergence": "ethereal",
+  "moniker": "⟦Letter-Blindness:TOK:cd1832⟧",
+  "carbon": "letter-blindness.carbon.tiff (TIFF)",
+  "silicon": "letter-blindness.silicon.png (PNG)",
+  "seal_sha256": "4b476c7ad279bfa0b40f4d87d51bffc36984a3785739880ea2a8aa139f8378a8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

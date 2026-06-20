@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Byte-Pair Encoding",
+  "universe": "TOK · Byte-Pair Encoding (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦Byte-Pair Encoding:TOK:fa1107⟧",
+  "carbon": "byte-pair-encoding.carbon.tiff (TIFF)",
+  "silicon": "byte-pair-encoding.silicon.png (PNG)",
+  "seal_sha256": "006d5bed46ac643f8c10c1fcdd8d7a666884d06138a8416f16db5f3c5ea276db",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

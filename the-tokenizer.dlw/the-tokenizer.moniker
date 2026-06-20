@@ -1,0 +1,10 @@
+⟦THE TOKENIZER:TOK:cdfff8⟧
+
+THE TOKENIZER · node TOK · TOK · THE TOKENIZER · NIPHĒLEKTRON · pipeline 1 · text becomes tokens · UD0 / niphelektron
+
+universe of origin : the inference layer — a stage of the pipeline
+seal               : A language model never reads letters. The first thing that happens to your text is that it is cut into tokens — sub-word pieces drawn from a fixed vocabulary. Common words are a single token; rare words shatter into several; even the space before a word is part of it. Before meaning, before prediction, there is the cut.
+spoken token       : steim-xaern-greind
+hex token          : cdfff8
+
+— the tokenized moniker of the mythos. ROOT0-ATTRIBUTION-v1.0

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Sub-Word",
+  "universe": "TOK · The Sub-Word (niphelektron)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Sub-Word:TOK:937200⟧",
+  "carbon": "the-subword.carbon.tiff (TIFF)",
+  "silicon": "the-subword.silicon.png (PNG)",
+  "seal_sha256": "15e0fcb8d7cb9b5098916aab92d534dc79cbf22cd46bdec3e96a35592ce4ebae",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

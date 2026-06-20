@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "the-token",
+    "name": "The Token",
+    "epithet": "the piece, not the word · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Token:TOK:0ca14c⟧"
+  },
+  {
+    "slug": "the-vocabulary",
+    "name": "The Vocabulary",
+    "epithet": "the fixed set of pieces · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Vocabulary:TOK:1349de⟧"
+  },
+  {
+    "slug": "byte-pair-encoding",
+    "name": "Byte-Pair Encoding",
+    "epithet": "how the pieces are learned · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Byte-Pair Encoding:TOK:fa1107⟧"
+  },
+  {
+    "slug": "the-subword",
+    "name": "The Sub-Word",
+    "epithet": "between letter and word · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Sub-Word:TOK:937200⟧"
+  },
+  {
+    "slug": "the-space-boundary",
+    "name": "The Space Boundary",
+    "epithet": "the leading space counts · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Space Boundary:TOK:956f12⟧"
+  },
+  {
+    "slug": "the-special-token",
+    "name": "The Special Token",
+    "epithet": "markers, not words · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Special Token:TOK:4b8db5⟧"
+  },
+  {
+    "slug": "token-cost",
+    "name": "Token Cost",
+    "epithet": "the unit of the bill · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Token Cost:TOK:0f3777⟧"
+  },
+  {
+    "slug": "letter-blindness",
+    "name": "Letter-Blindness",
+    "epithet": "why it miscounts · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Letter-Blindness:TOK:cd1832⟧"
+  },
+  {
+    "slug": "the-rare-word",
+    "name": "The Rare Word",
+    "epithet": "shattered into many · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Rare Word:TOK:c0125e⟧"
+  },
+  {
+    "slug": "the-first-cut",
+    "name": "The First Cut",
+    "epithet": "before everything · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The First Cut:TOK:bbdc10⟧"
+  }
+]

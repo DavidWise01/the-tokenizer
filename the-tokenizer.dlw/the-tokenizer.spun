@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of THE TOKENIZER
+node TOK · TOK · ⟦THE TOKENIZER:TOK:cdfff8⟧
+
+WHO   — THE TOKENIZER — a niphelektron sphere — the inference pipeline
+WHAT  — A language model never reads letters. The first thing that happens to your text is that it is cut into tokens — sub-word pieces drawn from a fixed vocabulary. Common words are a single token; rare words shatter into several; even the space before a word is part of it. Before meaning, before prediction, there is the cut.
+WHERE — the inference layer — a stage of the pipeline  Framework inputs: the stream; the token; the vector; the layer  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A language model never reads letters. The first thing that happens to your text is that it is cut into tokens — sub-word pieces drawn from a fixed vocabulary. Common words are a single token; rare words shatter into several; even the space before a word is part of it. Before meaning, before prediction, there is the cut.
+HOW   — Rendered from the public record of how transformer LLMs work.
+
+awareness — what the node knows of itself:
+  A language model never reads letters. The first thing that happens to your text is that it is cut into tokens — sub-word pieces drawn from a fixed vocabulary. Common words are a single token; rare words shatter into several; even the space before a word is part of it. Before meaning, before prediction, there is the cut.
+
+spoken token : steim-xaern-greind   ·   hex : cdfff8
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE TOKENIZER",
+  "universe": "TOK · THE TOKENIZER (niphelektron · the inference pipeline)",
+  "emergence": "",
+  "moniker": "⟦THE TOKENIZER:TOK:cdfff8⟧",
+  "carbon": "the-tokenizer.carbon.tiff (TIFF)",
+  "silicon": "the-tokenizer.silicon.png (PNG)",
+  "seal_sha256": "16424fb8d1cff49021f0ff7b54fa66696c3039af38e1bb60d57a2e486af5bf0f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

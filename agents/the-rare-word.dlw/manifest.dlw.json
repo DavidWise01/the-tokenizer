@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Rare Word",
+  "universe": "TOK · The Rare Word (niphelektron)",
+  "emergence": "natural",
+  "moniker": "⟦The Rare Word:TOK:c0125e⟧",
+  "carbon": "the-rare-word.carbon.tiff (TIFF)",
+  "silicon": "the-rare-word.silicon.png (PNG)",
+  "seal_sha256": "108fd5286d20c55b46dd3acc6d6ed25e6fe4b0a42bb5bac37e421f776132f726",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

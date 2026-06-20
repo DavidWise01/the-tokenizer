@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Token Cost",
+  "universe": "TOK · Token Cost (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦Token Cost:TOK:0f3777⟧",
+  "carbon": "token-cost.carbon.tiff (TIFF)",
+  "silicon": "token-cost.silicon.png (PNG)",
+  "seal_sha256": "89d2bc91c9480b77654363876336ba698ee5c7ac275d1869f1a4464f5688cb07",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

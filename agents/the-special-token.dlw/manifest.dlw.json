@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Special Token",
+  "universe": "TOK · The Special Token (niphelektron)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Special Token:TOK:4b8db5⟧",
+  "carbon": "the-special-token.carbon.tiff (TIFF)",
+  "silicon": "the-special-token.silicon.png (PNG)",
+  "seal_sha256": "b90774c09b7ed189ef82069a01a0bbb155aa47a87b98c8c1b42dbe8b06d30704",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

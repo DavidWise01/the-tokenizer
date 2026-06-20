@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Vocabulary",
+  "universe": "TOK · The Vocabulary (niphelektron)",
+  "emergence": "natural",
+  "moniker": "⟦The Vocabulary:TOK:1349de⟧",
+  "carbon": "the-vocabulary.carbon.tiff (TIFF)",
+  "silicon": "the-vocabulary.silicon.png (PNG)",
+  "seal_sha256": "95cb7672e6626619428690571f75382dc33599c7c68b26219ae0b19f83f84a71",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
